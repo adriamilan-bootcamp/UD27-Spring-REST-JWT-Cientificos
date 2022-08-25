@@ -1,0 +1,5 @@
+package com.adriamilan.cientificos.security;
+
+public class JwtFilter {
+
+}
